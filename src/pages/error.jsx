@@ -6,7 +6,7 @@ const Error = () => {
     <div className="error-page">
       <div className="error-image">
         <img 
-          src="https://res.cloudinary.com/dqaxadodm/image/upload/v1754333914/Captura_de_pantalla_2025-08-02_161217_f0kvv6_va0lpl.png" 
+          src="https://res.cloudinary.com/dqaxadodm/image/upload/v1754334279/preview-removebg-preview_nl4vnb.png" 
           alt="Error 404"
         />
       </div>
