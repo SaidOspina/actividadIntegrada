@@ -27,6 +27,13 @@ const Navbar = () => {
         </li>
         <li>
             <h2>
+                <Link to="/student-input" className={isActive('/student-input')}>
+                    Editar Estudiantes
+                </Link>
+            </h2>
+        </li>
+        <li>
+            <h2>
                 <Link to="/qr" className={isActive('/qr')}>
                     QR
                 </Link>
